@@ -1,0 +1,31 @@
+*{
+  margin: 10px 0px;
+  
+}
+h1{
+    text-align: center;
+    background-color: #0067B0;
+    width: 100vw;
+    margin-bottom: 0px;
+}
+#container{
+    height: 65vh;
+    width: 100vw;
+    text-align: center;
+}
+#text-area{
+    border: 1px solid #0067B0;
+    width: 94.5vw;
+    height: 64vh;
+    font-size: 15px;
+}
+p{
+    text-align: center;
+    background-color: #0067B0;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 5px;
+}
+.spa{
+    margin: 0px 20px;
+}
